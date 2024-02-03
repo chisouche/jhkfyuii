@@ -43,8 +43,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/chisouche/newsletter-sign-up-with-success-message-main)
+- Live Site URL:(https://newsletter-sign-up-with-success-message-main-g54b7u8ym.vercel.app)
 
 ## My process
 Absolutely, let's simplify it:
@@ -97,7 +97,5 @@ In building the newsletter sign-up form, I learned and applied fundamental skill
 Just to work more on responsive design media query
 
 ## Author
+- Frontend Mentor -https://www.frontendmentor.io/profile/chisouche
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
